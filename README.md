@@ -16,9 +16,10 @@ The goal of this repository is to document the full project workflow over the se
 ---
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
+- Jonah Karstens
+- Dario Pino
+- Sudhin Hegde
+- Kushal Shiva Patel
 
 ---
 
