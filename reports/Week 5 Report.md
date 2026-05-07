@@ -10,9 +10,13 @@
 ## Work Done This Week
 
 ### 0. Project setup
-Project Question: 
+
+Project Question:
+
   -Inwiefern lassen sich Blickbewegungsdaten (Tobii ET5) und Kopf-Kinematik (AirPods Motion Data) kombinieren, um die kognitive Konzentration während einer Leseaufgabe vorherzusagen?
+
 Test SetUp: 
+
   -Probant liest 5 Texte von jeweils 3-5 Minuten und muss zu jedem Text ca 10. fragen beantworten. Texte müsse bei hohre Konzentration gerade so in dem Zeitintervall lesbar sein.
 
 ### 1. Data Work
@@ -45,6 +49,7 @@ stillness_ratio	Nein (Schwellenwert zu niedrig)
 pitch_range	Ja (639%)
 
 yaw_range	Ja (677%)
+<img width="1417" height="495" alt="image" src="https://github.com/user-attachments/assets/99a600b5-4d60-453f-a4ea-c77687b4c8a1" />
 
 ### 3. Repository / Documentation Work
 - Testdatei um AirPoddaten auszuwerten.
