@@ -16,7 +16,7 @@ Test SetUp:
   -Probant liest 5 Texte von jeweils 3-5 Minuten und muss zu jedem Text ca 10. fragen beantworten. Texte müsse bei hohre Konzentration gerade so in dem Zeitintervall lesbar sein.
 
 ### 1. Data Work
--Erste Bewegungsdaten wurden mit den Airpods gesammelt. Einmal wurde sich dabei kaum bewegt, um Konzentration zu simulieren. Beim zweiten mal wurde sich mehr bewegt um ein unruhiges/unkonzentriertes VErhalten zu simulieren.
+-Erste Bewegungsdaten wurden mit den Airpods gesammelt. Einmal wurde sich dabei kaum bewegt, um Konzentration zu simulieren. Beim zweiten mal wurde sich mehr bewegt um ein unruhiges/unkonzentriertes Verhalten zu simulieren.
 
 ### 2. Analysis / Modeling Work
 -Die Beiden Bewegungsdaten der AirPods wurden in Pythen ausgwertet und visualisiert:
