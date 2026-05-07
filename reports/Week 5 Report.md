@@ -2,7 +2,9 @@
 
 ## Weekly Goal
 -Den Tobii EyeTracker 5 ausprobieren und mit Datenextrahierung auseinandersetzen
+
 -Daten aus AIrpods extrahieren und überlegen wie wir diese einsetzen
+
 -Texte und Fragen für Experiment ausarbeiten
 
 ## Work Done This Week
