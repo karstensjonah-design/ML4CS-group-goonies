@@ -47,8 +47,7 @@ pitch_range	Ja (639%)
 yaw_range	Ja (677%)
 
 ### 3. Repository / Documentation Work
-- What was added to GitHub?
-- Which files or folders were created?
+- Testdatei um AirPoddaten auszuwerten.
 
 
 ## Challenges
