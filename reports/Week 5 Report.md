@@ -67,10 +67,15 @@ yaw_range-Gesamtbereich der Links-/Rechtsdrehung                            ruhi
 Es ist ein klarer Unterschied zwischen ruhigem und unruhigem Verhalten erkennbar. 
 
 Taugt zur Unterscheidung?
+
 magnitude_mean	Nein (0.1% Unterschied)
+
 magnitude_std	Ja (738%)
+
 stillness_ratio	Nein (Schwellenwert zu niedrig)
+
 pitch_range	Ja (639%)
+
 yaw_range	Ja (677%)
 
 ### 3. Repository / Documentation Work
@@ -90,4 +95,4 @@ yaw_range	Ja (677%)
 -Test genauer definieren
 
 ## Contributions
-- Member 1: AirPods Anlayse
+- Jonah: AirPods Anlayse
