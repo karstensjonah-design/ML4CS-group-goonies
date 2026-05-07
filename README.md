@@ -16,17 +16,20 @@ The goal of this repository is to document the full project workflow over the se
 ---
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
+- Jonah Karstens
+- Dario Pino
+- Sudhin Hegde
+- Kushal Shiva Patel
 
 ---
 
-## Project Question
-Write your main research question here.
+## Project Question (V1)
+Inwiefern lassen sich Blickbewegungsdaten (Tobii ET5) und Kopf-Kinematik (AirPods Motion Data) kombinieren, um die kognitive Konzentration während einer Leseaufgabe vorherzusagen?
 
-**Example:**  
-Can wearable-device and self-tracking data be used to predict sleep quality, stress, activity level, or another quantified-self outcome?
+Ziel: Ein binäres Klassifizierungsmodell, das unterscheidet zwischen:
+
+Klasse 0: Niedrige Konzentration (Score < 5/10 im Test).
+Klasse 1: Hohe Konzentration (Score > 5/10 im Test).
 
 ---
 
