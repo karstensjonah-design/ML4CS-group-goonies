@@ -20,46 +20,8 @@ Test SetUp:
 
 ### 2. Analysis / Modeling Work
 -Die Beiden Bewegungsdaten der AirPods wurden in Pythen ausgwertet und visualisiert:
-============================================================
-FEATURE-VERGLEICH
-============================================================
-label            T-1 (ruhig)  T-2 (unruhig)
-lin_x_mean          0.391665       0.366826
-lin_x_std           0.007314       0.100182
-lin_x_max           0.406608       2.194857
-lin_y_mean         -0.056081      -0.078607
-lin_y_std           0.014745       0.145019
-lin_y_max           0.211307       0.506687
-lin_z_mean          0.915091       0.907165
-lin_z_std           0.005032       0.048346
-lin_z_max           1.004216       1.093162
-magnitude_mean      0.997104       0.997956
-magnitude_std       0.004074       0.034161
-magnitude_max       1.070350       2.197377
-movement_events   880.000000     881.000000
-stillness_ratio     0.000000       0.000000
-rot_x_mean          0.000945      -0.000770
-rot_x_std           0.047478       0.306279
-rot_x_max           0.629113       2.910680
-rot_y_mean         -0.000879       0.000625
-rot_y_std           0.029686       0.268412
-rot_y_max           0.495701       3.068207
-rot_z_mean          0.000673       0.002375
-rot_z_std           0.068925       0.413729
-rot_z_max           1.114646       4.043236
-pitch_mean         -0.056015      -0.081074
-pitch_std           0.013558       0.143388
-pitch_range         0.128817       0.952362
-roll_mean          -0.403830      -0.386318
-roll_std            0.007291       0.102712
-roll_range          0.116575       1.867424
-yaw_mean            0.033825      -0.774879
-yaw_std             0.018406       0.166281
-yaw_range           0.250519       1.946795
 
-============================================================
-ZUSAMMENFASSUNG
-============================================================
+
 magnitude_mean-Durchschnittliche Bewegungsstärke                            ruhig=0.9971  unruhig=0.9980  Δ=+0.1%
 
 magnitude_std-Schwankung der Bewegungsstärke                                ruhig=0.0041  unruhig=0.0342  Δ=+738.5%
