@@ -59,9 +59,13 @@ yaw_range           0.250519       1.946795
 ZUSAMMENFASSUNG
 ============================================================
 magnitude_mean-Durchschnittliche Bewegungsstärke                            ruhig=0.9971  unruhig=0.9980  Δ=+0.1%
+
 magnitude_std-Schwankung der Bewegungsstärke                                ruhig=0.0041  unruhig=0.0342  Δ=+738.5%
+
 stillness_ratio-Anteil echter Ruhe-Momente                                  ruhig=0.0000  unruhig=0.0000  Δ=+0.0%
+
 pitch_range-pitch_range — Gesamtbereich der Vor-/Rückneigung                ruhig=0.1288  unruhig=0.9524  Δ=+639.3%
+
 yaw_range-Gesamtbereich der Links-/Rechtsdrehung                            ruhig=0.2505  unruhig=1.9468  Δ=+677.1%
 
 Es ist ein klarer Unterschied zwischen ruhigem und unruhigem Verhalten erkennbar. 
