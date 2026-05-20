@@ -58,4 +58,5 @@
 ## Contributions
 - Jonah: Recherche zur Datenextraktion des Tobii Eye-Tracker 5
 - Sudhin: erste version der Texte für das Experiment
+- Kushal: Recherche nach wissenschaftlichen Quellen
 
