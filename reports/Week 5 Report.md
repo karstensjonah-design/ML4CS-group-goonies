@@ -56,7 +56,6 @@ yaw_range	Ja (677%)
 
 
 ## Challenges
-- Eigeninitiative
 
 ## Key Insights
 -Wie man AirPod daten bekommt/benutzt
